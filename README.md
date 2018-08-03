@@ -1,6 +1,24 @@
 # PyConES2018_Introduccion_a_data_science_en_Python
 
-Materiales para el taller 'Introducción a data science con Python' en la PyConES2018
+Materiales para el taller 'Introducción a data science con Python' en la PyConES2018 realizado por los organizadores del meetup PyDataMallorca.
+
+Twitter: https://twitter.com/PyDataMallorca
+
+Meetup: https://www.meetup.com/PyData-Mallorca/
+
+# Autores y colaboradores (por orden alfabético)
+
+* Juan Carlos Abella
+
+* Jordi Contestí
+
+* Kiko Correoso ([pybonacci.org](https://pybonacci.org), [twitter](https://twitter.com/Pybonacci)
+
+* Guillem Duràn 
+
+* Antònia Tugores
+
+* Eulàlia Veny
 
 # Temática del taller
 
