@@ -12,7 +12,7 @@ Meetup: https://www.meetup.com/PyData-Mallorca/
 
 * Jordi Contestí
 
-* Kiko Correoso ([pybonacci.org](https://pybonacci.org), [twitter](https://twitter.com/Pybonacci)
+* Kiko Correoso ([pybonacci.org](https://pybonacci.org), [twitter](https://twitter.com/Pybonacci))
 
 * Guillem Duràn 
 
