@@ -1,0 +1,9 @@
+name: taller_DS_pycones2018
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - notebook
+  - scikit-learn
