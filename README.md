@@ -31,7 +31,9 @@ Formas de conseguir lo anterior:
 * Una segunda forma sería instalando MiniConda. Lo podéis descargar [desde este enlace](https://conda.io/miniconda.html) (seleccionad la versión que incluya Python 3.6 o superior). Una vez instalado MiniConda tenéis Python y una serie de utilidades instaladas. Para instalar el resto de paquetes necesarios podéis abrir una terminal (Linux/Mac) o el AnacondaPrompt (Windows), ejecutad lo siguiente (dependiendo del sistema operativo en el que estéis deberéis ejecutar unas cosas u otras):
 
 `cd ruta/a/la/carpeta/descargada/y/descomprimida` (Linux o Mac)
+
 `cd C:\ruta\a\la\carpeta\descargada\y\descomprimida` (Windows)
+
 `conda env create -f environment.yml` (Linux, Mac, Windows)
 
 # TO-DO
