@@ -1,2 +1,39 @@
 # PyConES2018_Introduccion_a_data_science_en_Python
+
 Materiales para el taller 'Introducción a data science con Python' en la PyConES2018
+
+# Temática del taller
+
+1. Introducción al taller. Para empezar, comentaremos qué es Data Science, Big Data, Machine Learning y otros conceptos relacionados y cómo encaja el lenguaje Python en todo ello. Asimismo, enunciaremos los requisitos que debería tener un analista de datos.
+
+2. Introducción a Jupyter. En el taller utilizaremos Jupyter, que es una aplicación que permite editar código Python, así como también otros lenguajes como R, Julia o Scala, de forma conjunta con texto enriquecido y que es ampliamente utilizado en el análisis de datos actualmente. En este bloque explicaremos cómo utilizarlo y sus funcionalidades principales.
+
+3. Breve introducción a la anatomía de un numpy array. Todo el ecosistema científico Python usa de forma generalizada los arrays de numpy en sus tripas. En este bloque intentaremos explicar cómo funciona un numpy array para que le podáis sacar el máximo provecho numérico a Python.
+
+4. Tratamiento de datos mediante Pandas. Pandas es la librería principal de carga, consulta y modificación de datos en Python. En este bloque realizaremos diversos ejercicios para conocer las funcionalidades más importantes de Pandas y prepararnos para los siguientes bloques.
+
+5. Visualización de datos con Matplotlib. Por su parte, Matplotlib es una librería de Python que nos permite construir gráficos. Durante este apartado veremos cómo crear gráficos fácilmente mediante esta librería y realizaremos ejercicios para poner en práctica esta librería.
+
+6. Resolución de un problema de clasificación mediante scikit-learn. Posteriormente, propondremos un problema de clasificación y explicaremos un algoritmo matemático que permita su resolución, ¡no te asustes! No entraremos en explicaciones matemáticas profundas, pero sí intentaremos comprender cómo funcionan estos algoritmos de forma general y en particular para el algoritmo de clasificación escogido. Haremos ejercicios y jugaremos con los datos para poder entender mejor cómo funciona un algoritmo de este tipo. Utilizaremos scikit-learn, que es la librería de Python que nos permite implementar soluciones de Machine Learning.
+
+# Preparación para antes del taller
+
+Necesitarás:
+
+* un portátil.
+* Descargar los materiales para el curso y descomprimirlos en el portátil ([usa este enlace para descargarlos](https://github.com/PyDataMallorca/PyConES2018_Introduccion_a_data_science_en_Python/archive/master.zip)).
+* Python 3.6 o superior instalado.
+* Las librerías que vamos a usar (Jupyter, Numpy, Matplotlib, Pandas y Scikit-Learn).
+
+Formas de conseguir lo anterior:
+
+* La forma más sencilla sería instalando Anaconda para vuestro sistema operativo. La distribución Anaconda junto con instrucciones de cómo instalarlo lo podéis encontrar [en este enlace](https://www.anaconda.com/download/) (seleccionad la versión que incluya Python 3.6 o superior). La distribución Anaconda os instalará python 3.6 y un montón de paquetes que se usan en muchos ámbitos del data science y de la ciencia e ingeniería en general.
+* Una segunda forma sería instalando MiniConda. Lo podéis descargar [desde este enlace](https://conda.io/miniconda.html) (seleccionad la versión que incluya Python 3.6 o superior). Una vez instalado MiniConda tenéis Python y una serie de utilidades instaladas. Para instalar el resto de paquetes necesarios podéis abrir una terminal (Linux/Mac) o el AnacondaPrompt (Windows), ejecutad lo siguiente (dependiendo del sistema operativo en el que estéis deberéis ejecutar unas cosas u otras):
+
+`cd ruta/a/la/carpeta/descargada/y/descomprimida` (Linux o Mac)
+`cd C:\ruta\a\la\carpeta\descargada\y\descomprimida` (Windows)
+`conda env create -f environment.yml` (Linux, Mac, Windows)
+
+# TO-DO
+
+* Preparar vídeo con cómo instalarlo todo par facilitar este paso.
