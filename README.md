@@ -18,8 +18,6 @@ Meetup: https://www.meetup.com/PyData-Mallorca/
 
 * Antònia Tugores
 
-* Eulàlia Veny
-
 # Temática del taller
 
 1. Introducción al taller. Para empezar, comentaremos qué es Data Science, Big Data, Machine Learning y otros conceptos relacionados y cómo encaja el lenguaje Python en todo ello. Asimismo, enunciaremos los requisitos que debería tener un analista de datos.
