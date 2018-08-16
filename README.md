@@ -8,13 +8,13 @@ Meetup: https://www.meetup.com/PyData-Mallorca/
 
 # Autores y colaboradores (por orden alfabético)
 
-* Juan Carlos Abella
+* Juan Carlos González
 
 * Jordi Contestí
 
 * Kiko Correoso ([pybonacci.org](https://pybonacci.org), [twitter](https://twitter.com/Pybonacci))
 
-* Guillem Duràn 
+* Guillem Duran 
 
 * Antònia Tugores
 
