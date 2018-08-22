@@ -19,8 +19,19 @@ Necesitarás lo siguiente:
 
 Formas de conseguir lo anterior:
 
-* La forma más sencilla sería instalando Anaconda para vuestro sistema operativo. La distribución Anaconda junto con instrucciones de cómo instalarlo lo podéis encontrar [en este enlace](https://www.anaconda.com/download/) (seleccionad la versión que incluya Python 3.6 o superior). La distribución Anaconda os instalará python 3.6 y un montón de paquetes que se usan en muchos ámbitos del data science y de la ciencia e ingeniería en general.
-* Una segunda forma sería instalando MiniConda. Lo podéis descargar [desde este enlace](https://conda.io/miniconda.html) (seleccionad la versión que incluya Python 3.6 o superior). Una vez instalado MiniConda tenéis Python y una serie de utilidades instaladas. Para instalar el resto de paquetes necesarios podéis abrir una terminal (Linux/Mac) o el AnacondaPrompt (Windows), ejecutad lo siguiente (dependiendo del sistema operativo en el que estéis deberéis ejecutar unas cosas u otras):
+**Instalación de Anaconda**
+
+La forma más sencilla sería instalando Anaconda para vuestro sistema operativo. La distribución Anaconda junto con instrucciones de cómo instalarlo lo podéis encontrar [en este enlace](https://www.anaconda.com/download/) (seleccionad la versión que incluya Python 3.6 o superior). La distribución Anaconda os instalará python 3.6 y un montón de paquetes que se usan en muchos ámbitos del data science y de la ciencia e ingeniería en general. Os dejamos también vídeos que hemos preparado para facilitaros el proceso:
+
+* Para instalar Anaconda en linux: https://www.youtube.com/watch?v=b9LV1J7vPuw&t=192s
+
+**Instalación de miniconda**
+
+Una segunda forma sería instalando MiniConda. Lo podéis descargar [desde este enlace](https://conda.io/miniconda.html) (seleccionad la versión que incluya Python 3.6 o superior). Una vez instalado MiniConda tenéis Python y una serie de utilidades instaladas. Os dejamos también vídeos que hemos preparado para facilitaros el proceso:
+
+* Para instalar Miniconda en linux: https://www.youtube.com/watch?v=liqnwft_cbs
+
+Para instalar el resto de paquetes necesarios podéis abrir una terminal (Linux/Mac) o el AnacondaPrompt (Windows), ejecutad lo siguiente (dependiendo del sistema operativo en el que estéis deberéis ejecutar unas cosas u otras).
 
 `cd ruta/a/la/carpeta/descargada/y/descomprimida` (Linux o Mac)
 
