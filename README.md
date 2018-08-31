@@ -25,6 +25,7 @@ La forma más sencilla sería instalando Anaconda para vuestro sistema operativo
 
 * Para instalar Anaconda en linux: https://www.youtube.com/watch?v=b9LV1J7vPuw&t=192s
 * Para instalar Anaconda en MacOS: Seguid las instrucciones de Linux de la línea anterior.
+* Para instalar Anaconda en windows: https://www.youtube.com/watch?v=MSnNTODnSBg
 
 **Instalación de miniconda**
 
@@ -32,6 +33,7 @@ Una segunda forma sería instalando MiniConda. Lo podéis descargar [desde este 
 
 * Para instalar Miniconda en linux: https://www.youtube.com/watch?v=liqnwft_cbs
 * Para instalar Miniconda en MacOS: Seguid las instrucciones de Linux de la línea anterior.
+* Para instalar Miniconda en windows: https://www.youtube.com/watch?v=aYhlDfGhwuU
 
 Para instalar el resto de paquetes necesarios podéis abrir una terminal (Linux/Mac) o el AnacondaPrompt (Windows), ejecutad lo siguiente (dependiendo del sistema operativo en el que estéis deberéis ejecutar unas cosas u otras).
 
