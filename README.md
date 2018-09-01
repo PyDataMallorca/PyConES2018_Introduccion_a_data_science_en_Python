@@ -35,6 +35,8 @@ Una segunda forma sería instalando MiniConda. Lo podéis descargar [desde este 
 * Para instalar Miniconda en MacOS: Seguid las instrucciones de Linux de la línea anterior.
 * Para instalar Miniconda en windows: https://www.youtube.com/watch?v=aYhlDfGhwuU
 
+**Instalación de paquetes específicos**
+
 Para instalar el resto de paquetes necesarios podéis abrir una terminal (Linux/Mac) o el AnacondaPrompt (Windows), ejecutad lo siguiente (dependiendo del sistema operativo en el que estéis deberéis ejecutar unas cosas u otras).
 
 `cd ruta/a/la/carpeta/descargada/y/descomprimida` (Linux o Mac)
@@ -42,6 +44,19 @@ Para instalar el resto de paquetes necesarios podéis abrir una terminal (Linux/
 `cd C:\ruta\a\la\carpeta\descargada\y\descomprimida` (Windows)
 
 `conda env create -f environment.yml` (Linux, Mac, Windows)
+
+
+# En el taller
+
+Como en el paso anterior habéis instalado los paquetes necesarios, solamente tenéis que activar el entorno que creasteis y usar los paquetes. Para ello, en la misma terminal que los pasos anteriores deberéis ejecutar
+
+`source activate taller_DS_pycones2018`
+
+Y finalmente también ejecutar jupyter notebook para acceder al tutorial. Atención: se abrirá un navegador web.
+
+`jupyter notebook`
+
+
 
 # TO-DO
 
@@ -63,12 +78,12 @@ Para instalar el resto de paquetes necesarios podéis abrir una terminal (Linux/
 
 # Autores y colaboradores (por orden alfabético)
 
-* Juan Carlos González.
-
-* Jordi Contestí.
+* Jordi Contestí
 
 * Kiko Correoso ([pybonacci.org](https://pybonacci.org), [twitter](https://twitter.com/Pybonacci)).
 
-* Guillem Duran.
+* Guillem Duran
 
-* Antònia Tugores.
+* Juan Carlos González
+
+* Antònia Tugores
