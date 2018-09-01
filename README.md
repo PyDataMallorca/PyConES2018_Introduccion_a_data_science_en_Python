@@ -82,6 +82,17 @@ Y finalmente también ejecutar jupyter notebook para acceder al tutorial. Atenci
 
 * Guillem Duran [twitter](https://twitter.com/Miau_DB).
 
-* Juan Carlos González [twitter](https://twitter.com/PyDataMallorca).
+* Juan Carlos González [twitter](https://twitter.com/jcgavella).
 
-* Antònia Tugores [twitter](https://twitter.com/antoniatugores)
+* Antònia Tugores [twitter](https://twitter.com/antoniatugores).
+
+
+# Contacto
+
+Si deseas contactar con nosotros puedes hacerlo del siguiente modo:
+
+* Envía un correo electrónico a: pydata-mallorca@googlegroups.com.
+* Envía un tweet a: https://twitter.com/PyDataMallorca.
+* Envía un mensaje vía meetup a: https://www.meetup.com/PyData-Mallorca.
+
+
