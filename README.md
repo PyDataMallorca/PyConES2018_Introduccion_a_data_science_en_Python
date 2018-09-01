@@ -2,11 +2,12 @@
 
 Materiales para el taller 'Introducción a Data Science en Python' en la PyConES2018 realizado por los organizadores del meetup PyDataMallorca.
 
-Twitter: https://twitter.com/PyDataMallorca
+Página web del Meetup: https://www.meetup.com/PyData-Mallorca/
 
-Meetup: https://www.meetup.com/PyData-Mallorca/
+Cuenta de Twitter: https://twitter.com/PyDataMallorca
 
-# Preparación para antes del taller
+
+# Preparación imprescindible antes del taller
 
 **NOTA: es muy importante que acudas al taller con todo instalado, para que puedas aprovechar al máximo todo lo que explicaremos.**
 
@@ -21,15 +22,15 @@ Formas de conseguir lo anterior:
 
 **Instalación de Anaconda**
 
-La forma más sencilla sería instalando Anaconda para vuestro sistema operativo. La distribución Anaconda junto con instrucciones de cómo instalarlo lo podéis encontrar [en este enlace](https://www.anaconda.com/download/) (seleccionad la versión que incluya Python 3.6 o superior). La distribución Anaconda os instalará python 3.6 y un montón de paquetes que se usan en muchos ámbitos del data science y de la ciencia e ingeniería en general. Os dejamos también vídeos que hemos preparado para facilitaros el proceso:
+La forma más sencilla sería instalando Anaconda para vuestro sistema operativo. La distribución Anaconda junto con instrucciones de cómo instalarlo lo podéis encontrar [en este enlace](https://www.anaconda.com/download/) (seleccionad la versión que incluya Python 3.6 o superior). La distribución Anaconda os instalará Python 3.6 y un montón de paquetes que se usan en muchos ámbitos de Data Science y de la ciencia e ingeniería en general. Os dejamos también vídeos que hemos preparado para facilitaros el proceso:
 
-* Para instalar Anaconda en linux: https://www.youtube.com/watch?v=b9LV1J7vPuw&t=192s
-* Para instalar Anaconda en MacOS: Seguid las instrucciones de Linux de la línea anterior.
-* Para instalar Anaconda en windows: https://www.youtube.com/watch?v=MSnNTODnSBg
+* Para instalar Anaconda en Linux: https://www.youtube.com/watch?v=b9LV1J7vPuw&t=192s
+* Para instalar Anaconda en MacOS: seguid las instrucciones de Linux de la línea anterior.
+* Para instalar Anaconda en Windows: https://www.youtube.com/watch?v=MSnNTODnSBg
 
-**Instalación de miniconda**
+**Instalación de Miniconda**
 
-Una segunda forma sería instalando MiniConda. Lo podéis descargar [desde este enlace](https://conda.io/miniconda.html) (seleccionad la versión que incluya Python 3.6 o superior). Una vez instalado MiniConda tenéis Python y una serie de utilidades instaladas. Os dejamos también vídeos que hemos preparado para facilitaros el proceso:
+Una segunda forma sería instalando Miniconda. Lo podéis descargar [desde este enlace](https://conda.io/miniconda.html) (seleccionad la versión que incluya Python 3.6 o superior). Una vez instalado MiniConda tenéis Python y una serie de utilidades instaladas. Os dejamos también vídeos que hemos preparado para facilitaros el proceso:
 
 * Para instalar Miniconda en linux: https://www.youtube.com/watch?v=liqnwft_cbs
 * Para instalar Miniconda en MacOS: Seguid las instrucciones de Linux de la línea anterior.
@@ -46,9 +47,9 @@ Para instalar el resto de paquetes necesarios podéis abrir una terminal (Linux/
 `conda env create -f environment.yml` (Linux, Mac, Windows)
 
 
-# En el taller
+# Durante el taller
 
-Como en el paso anterior habéis instalado los paquetes necesarios, solamente tenéis que activar el entorno que creasteis y usar los paquetes. Para ello, en la misma terminal que los pasos anteriores deberéis ejecutar
+Como en el paso anterior habéis instalado los paquetes necesarios, solamente tenéis que activar el entorno creado y usar los paquetes. Para ello, en la misma terminal que los pasos anteriores deberéis ejecutar
 
 `source activate taller_DS_pycones2018`
 
@@ -58,11 +59,7 @@ Y finalmente también ejecutar jupyter notebook para acceder al tutorial. Atenci
 
 
 
-# TO-DO
-
-* Preparar vídeo con cómo instalarlo todo par facilitar este paso.
-
-# Temática del taller
+# Contenidos
 
 1. Introducción al taller. Para empezar, comentaremos qué es Data Science, Big Data, Machine Learning y otros conceptos relacionados y cómo encaja el lenguaje Python en todo ello. Asimismo, enunciaremos los requisitos que debería tener un analista de datos.
 
@@ -76,14 +73,15 @@ Y finalmente también ejecutar jupyter notebook para acceder al tutorial. Atenci
 
 6. Resolución de un problema de clasificación mediante scikit-learn. Posteriormente, propondremos un problema de clasificación y explicaremos un algoritmo matemático que permita su resolución, ¡no te asustes! No entraremos en explicaciones matemáticas profundas, pero sí intentaremos comprender cómo funcionan estos algoritmos de forma general y en particular para el algoritmo de clasificación escogido. Haremos ejercicios y jugaremos con los datos para poder entender mejor cómo funciona un algoritmo de este tipo. Utilizaremos scikit-learn, que es la librería de Python que nos permite implementar soluciones de Machine Learning.
 
+
 # Autores y colaboradores (por orden alfabético)
 
-* Jordi Contestí
+* Jordi Contestí [twitter](https://twitter.com/PyDataMallorca).
 
 * Kiko Correoso ([pybonacci.org](https://pybonacci.org), [twitter](https://twitter.com/Pybonacci)).
 
-* Guillem Duran
+* Guillem Duran [twitter](https://twitter.com/Miau_DB).
 
-* Juan Carlos González
+* Juan Carlos González [twitter](https://twitter.com/PyDataMallorca).
 
-* Antònia Tugores
+* Antònia Tugores [twitter](https://twitter.com/antoniatugores)
