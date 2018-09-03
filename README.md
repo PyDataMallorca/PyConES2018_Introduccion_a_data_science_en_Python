@@ -78,7 +78,7 @@ Y finalmente también ejecutar jupyter notebook para acceder al tutorial. Atenci
 
 # Autores y colaboradores (por orden alfabético)
 
-* Jordi Contestí [twitter](https://twitter.com/PyDataMallorca).
+* Jordi Contestí.
 
 * Kiko Correoso ([pybonacci.org](https://pybonacci.org), [twitter](https://twitter.com/Pybonacci)).
 
