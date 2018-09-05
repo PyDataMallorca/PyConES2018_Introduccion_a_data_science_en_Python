@@ -1,0 +1,7 @@
+print(a.shape)
+print(a.size)
+print(a.var())
+print(a.std(axis=0))
+print(a)
+a.sort()
+print(a)

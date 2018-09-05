@@ -7,3 +7,4 @@ dependencies:
   - pandas
   - notebook
   - scikit-learn
+  - seaborn
