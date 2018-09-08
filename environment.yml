@@ -8,3 +8,4 @@ dependencies:
   - notebook
   - scikit-learn
   - seaborn
+  - python-graphviz
